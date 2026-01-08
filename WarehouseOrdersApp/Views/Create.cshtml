@@ -1,0 +1,21 @@
+﻿@model WarehouseOrdersApp.Models.OrderCreateViewModel
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Client</label>
+        <input asp-for="CustomerName" />
+        <span asp-validation-for="CustomerName"></span>
+    </div>
+
+    <div>
+        <label>Data</label>
+        <input asp-for="OrderDate" type="date" />
+        <span asp-validation-for="OrderDate"></span>
+    </div>
+
+    <button type="submit">Save</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

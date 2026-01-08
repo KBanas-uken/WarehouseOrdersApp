@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WarehouseOrdersApp.Models
+namespace WarehouseOrdersApp
 {
     public class OrderItem
     {
