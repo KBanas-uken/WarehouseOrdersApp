@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WarehouseOrdersApp.Models;
 
 namespace WarehouseOrdersApp.Data
 {

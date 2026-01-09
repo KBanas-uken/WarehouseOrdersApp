@@ -1,4 +1,7 @@
 ﻿@model WarehouseOrdersApp.Models.OrderCreateViewModel
+@{
+    ViewData["Title"] = "Create";
+}
 
 <form asp-action="Create" method="post">
     <div>
@@ -8,7 +11,7 @@
     </div>
 
     <div>
-        <label>Data</label>
+        <label>Date</label>
         <input asp-for="OrderDate" type="date" />
         <span asp-validation-for="OrderDate"></span>
     </div>
