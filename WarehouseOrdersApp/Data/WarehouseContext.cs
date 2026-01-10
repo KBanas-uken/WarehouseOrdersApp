@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using WarehouseOrdersApp.Models;
 
 namespace WarehouseOrdersApp.Data
 {
-    public class WarehouseContext : DbContext
+    public class WarehouseContext : IdentityDbContext<AppUser>
     {
         public WarehouseContext(DbContextOptions<WarehouseContext> options) : base(options) { }
 
@@ -17,6 +18,8 @@ namespace WarehouseOrdersApp.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<OrderItem>()
                 .HasOne(oi => oi.Order)
                 .WithMany(o => o.Items)
