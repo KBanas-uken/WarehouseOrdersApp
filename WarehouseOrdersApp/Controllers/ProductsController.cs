@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WarehouseOrdersApp.Data;
 using WarehouseOrdersApp.Models;
 
@@ -13,6 +14,7 @@ namespace WarehouseOrdersApp.Controllers
             _context = context;
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult AddProduct()
         {
             return View();

@@ -14,6 +14,7 @@ namespace WarehouseOrdersApp.Controllers
             _context = context;
         }
 
+        [Authorize(Roles = "User,Admin")]
         public IActionResult Create()
         {
             ViewBag.Products = _context.Products.ToList();

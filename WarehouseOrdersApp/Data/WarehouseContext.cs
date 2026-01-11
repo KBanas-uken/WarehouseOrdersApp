@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using WarehouseOrdersApp.Models;
 
 namespace WarehouseOrdersApp.Data
 {
-    public class WarehouseContext : IdentityDbContext<AppUser>
+    public class WarehouseContext : IdentityDbContext<AppUser, IdentityRole, string>
     {
         public WarehouseContext(DbContextOptions<WarehouseContext> options) : base(options) { }
 

@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using WarehouseOrdersApp.Data;
+using WarehouseOrdersApp.Models;
 
 namespace WarehouseOrdersApp.Controllers
 {
@@ -13,6 +15,7 @@ namespace WarehouseOrdersApp.Controllers
             _context = context;
         }
 
+        [Authorize(Roles = "User,Admin")]
         public IActionResult AddStock()
         {
             ViewBag.Products = new SelectList(
@@ -22,6 +25,29 @@ namespace WarehouseOrdersApp.Controllers
             );
 
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult AddStock(StockEntryViewModel model)
+        {
+            if (!ModelState.IsValid)
+                return View(model);
+
+            var product = _context.Products.Find(model.ProductId);
+            if (product == null)
+                return NotFound();
+
+            product.StockQuantity += model.Quantity;
+
+            _context.StockEntries.Add(new StockEntry
+            {
+                ProductId = model.ProductId,
+                Quantity = model.Quantity,
+                EntryDate = DateTime.Now
+            });
+
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Home");
         }
     }
 }
