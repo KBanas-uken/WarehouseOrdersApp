@@ -1,13 +1,13 @@
 ﻿@model WarehouseOrdersApp.Models.StockEntryViewModel
 
-<h2>Przyjęcie towaru do magazynu</h2>
+<h2>Warehouse admission</h2>
 
 <form asp-action="AddStock" method="post">
     <div>
         <label>Product</label>
         <select asp-for="ProductId"
                 asp-items="ViewBag.Products">
-            <option value="">Choose the product</option>
+            <option value="">Choose product</option>
         </select>
         <span asp-validation-for="ProductId"></span>
     </div>
