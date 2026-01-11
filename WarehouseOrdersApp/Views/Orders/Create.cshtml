@@ -3,9 +3,12 @@
     ViewData["Title"] = "Create";
 }
 
+<h2>New order</h2>
+
 <form asp-action="Create" method="post">
+
     <div>
-        <label>Client</label>
+        <label>Customer</label>
         <input asp-for="CustomerName" />
         <span asp-validation-for="CustomerName"></span>
     </div>
@@ -16,7 +19,24 @@
         <span asp-validation-for="OrderDate"></span>
     </div>
 
-    <button type="submit">Save</button>
+    <h3>Products</h3>
+
+    @for (int i = 0; i < Model.Items.Count; i++)
+    {
+        <div style="border:1px solid #ccc; padding:10px; margin-bottom:5px">
+            <select asp-for="Items[@i].ProductId">
+                <option value="">Please choose an item</option>
+                @foreach (var product in ViewBag.Products)
+                {
+                    <option value="@product.Id">@product.Name</option>
+                }
+            </select>
+
+            <input asp-for="Items[@i].Quantity" type="number" min="1" />
+        </div>
+    }
+
+    <button type="submit">Order</button>
 </form>
 
 @section Scripts {

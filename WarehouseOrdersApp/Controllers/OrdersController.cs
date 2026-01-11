@@ -16,14 +16,29 @@ namespace WarehouseOrdersApp.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            ViewBag.Products = _context.Products.ToList();
+
+            var model = new OrderCreateViewModel
+            {
+                OrderDate = DateTime.Today,
+                Items = new List<OrderItemCreateViewModel>
+                {
+                    new OrderItemCreateViewModel()
+                }
+            };
+
+            return View(model);
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Create(OrderCreateViewModel model)
         {
             if (!ModelState.IsValid)
+            {
+                ViewBag.Products = _context.Products.ToList();
                 return View(model);
+            }
 
             var order = new Order
             {
@@ -31,10 +46,20 @@ namespace WarehouseOrdersApp.Controllers
                 OrderDate = model.OrderDate!.Value
             };
 
+            foreach (var item in model.Items)
+            {
+                order.Items.Add(new OrderItem
+                {
+                    ProductId = item.ProductId,
+                    Quantity = item.Quantity
+                });
+            }
+
             _context.Orders.Add(order);
             _context.SaveChanges();
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "Home");
         }
+
     }
 }
