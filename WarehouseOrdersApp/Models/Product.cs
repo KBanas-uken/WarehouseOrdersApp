@@ -12,8 +12,8 @@ namespace WarehouseOrdersApp.Models
         [Range(0, int.MaxValue)]
         public int StockQuantity { get; set; }
 
-        public int WarehouseId { get; set; }
-        public Warehouse Warehouse { get; set; }
+        /*public int WarehouseId { get; set; }
+        public Warehouse Warehouse { get; set; }*/
 
         public ICollection<OrderItem> OrderItems { get; set; }
     }

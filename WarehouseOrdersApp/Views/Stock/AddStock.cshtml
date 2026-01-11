@@ -1,0 +1,27 @@
+﻿@model WarehouseOrdersApp.Models.StockEntryViewModel
+
+<h2>Przyjęcie towaru do magazynu</h2>
+
+<form asp-action="AddStock" method="post">
+    <div>
+        <label>Produkt</label>
+        <select asp-for="ProductId"
+                asp-items="ViewBag.Products">
+            <option value="">-- wybierz produkt --</option>
+        </select>
+        <span asp-validation-for="ProductId"></span>
+    </div>
+
+    <div>
+        <label>Ilość</label>
+        <input asp-for="Quantity" type="number" min="1" />
+        <span asp-validation-for="Quantity"></span>
+    </div>
+
+    <button type="submit">Dodaj do magazynu</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

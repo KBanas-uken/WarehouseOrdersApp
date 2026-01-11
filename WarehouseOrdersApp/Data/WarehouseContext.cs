@@ -16,6 +16,8 @@ namespace WarehouseOrdersApp.Data
 
         public DbSet<OrderItem> OrderItems {get; set;}
 
+        public DbSet<StockEntry> StockEntries { get; set;}
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
