@@ -12,8 +12,8 @@ using WarehouseOrdersApp.Data;
 namespace WarehouseOrdersApp.Migrations
 {
     [DbContext(typeof(WarehouseContext))]
-    [Migration("20260111131748_AddStockEntries")]
-    partial class AddStockEntries
+    [Migration("20260111172246_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -298,12 +298,7 @@ namespace WarehouseOrdersApp.Migrations
                     b.Property<int>("StockQuantity")
                         .HasColumnType("int");
 
-                    b.Property<int>("WarehouseId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("WarehouseId");
 
                     b.ToTable("Products");
                 });
@@ -330,23 +325,6 @@ namespace WarehouseOrdersApp.Migrations
                     b.HasIndex("ProductId");
 
                     b.ToTable("StockEntries");
-                });
-
-            modelBuilder.Entity("WarehouseOrdersApp.Models.Warehouse", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Warehouses");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -419,17 +397,6 @@ namespace WarehouseOrdersApp.Migrations
                     b.Navigation("Product");
                 });
 
-            modelBuilder.Entity("WarehouseOrdersApp.Models.Product", b =>
-                {
-                    b.HasOne("WarehouseOrdersApp.Models.Warehouse", "Warehouse")
-                        .WithMany("Products")
-                        .HasForeignKey("WarehouseId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Warehouse");
-                });
-
             modelBuilder.Entity("WarehouseOrdersApp.Models.StockEntry", b =>
                 {
                     b.HasOne("WarehouseOrdersApp.Models.Product", "Product")
@@ -449,11 +416,6 @@ namespace WarehouseOrdersApp.Migrations
             modelBuilder.Entity("WarehouseOrdersApp.Models.Product", b =>
                 {
                     b.Navigation("OrderItems");
-                });
-
-            modelBuilder.Entity("WarehouseOrdersApp.Models.Warehouse", b =>
-                {
-                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }

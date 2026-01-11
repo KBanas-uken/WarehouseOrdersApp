@@ -1,0 +1,19 @@
+﻿@model WarehouseOrdersApp.Models.ProductCreateViewModel
+
+
+<h2>New product</h2>
+
+<form asp-action="AddProduct" method="post">
+    @Html.AntiForgeryToken()
+    <div>
+        <label>Product's name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <button type="submit">Add product</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

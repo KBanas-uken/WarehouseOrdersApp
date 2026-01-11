@@ -4,21 +4,21 @@
 
 <form asp-action="AddStock" method="post">
     <div>
-        <label>Produkt</label>
+        <label>Product</label>
         <select asp-for="ProductId"
                 asp-items="ViewBag.Products">
-            <option value="">-- wybierz produkt --</option>
+            <option value="">Choose the product</option>
         </select>
         <span asp-validation-for="ProductId"></span>
     </div>
 
     <div>
-        <label>Ilość</label>
+        <label>Quantity</label>
         <input asp-for="Quantity" type="number" min="1" />
         <span asp-validation-for="Quantity"></span>
     </div>
 
-    <button type="submit">Dodaj do magazynu</button>
+    <button type="submit">Add to warehouse</button>
 </form>
 
 @section Scripts {
