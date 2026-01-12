@@ -9,13 +9,13 @@ namespace WarehouseOrdersApp.Data
     {
         public WarehouseContext(DbContextOptions<WarehouseContext> options) : base(options) { }
 
-        public DbSet<Product> Products {get; set;}
+        public DbSet<Product> Products { get; set; }
 
-        public DbSet<Order> Orders {get; set;}
+        public DbSet<Order> Orders { get; set; }
 
-        public DbSet<OrderItem> OrderItems {get; set;}
+        public DbSet<OrderItem> OrderItems { get; set; }
 
-        public DbSet<StockEntry> StockEntries { get; set;}
+        public DbSet<StockEntry> StockEntries { get; set; }
 
         public DbSet<StockIssue> StockIssues { get; set; }
 

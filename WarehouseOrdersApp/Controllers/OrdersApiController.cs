@@ -31,7 +31,7 @@ namespace WarehouseOrdersApp.Controllers
                 .Include(o => o.Items)
                 .FirstOrDefault(o => o.Id == id);
 
-            if(order == null) return NotFound();
+            if (order == null) return NotFound();
             return Ok(order);
         }
 
@@ -53,8 +53,8 @@ namespace WarehouseOrdersApp.Controllers
             return NoContent();
         }
 
-       [HttpDelete("{id}")]
-       public IActionResult Delete(int id)
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
         {
             var order = _context.Orders.Find(id);
 

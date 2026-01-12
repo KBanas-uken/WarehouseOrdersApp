@@ -1,6 +1,6 @@
 ﻿@model WarehouseOrdersApp.Models.StockIssueViewModel
 
-<h2>Warehouse issue (order fulfillment)</h2>
+<h2>Warehouse issue</h2>
 
 <form asp-action="IssueStock" method="post">
     @Html.AntiForgeryToken()
@@ -33,5 +33,4 @@
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }
-
 

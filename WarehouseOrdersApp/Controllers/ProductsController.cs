@@ -30,7 +30,7 @@ namespace WarehouseOrdersApp.Controllers
             var product = new Product
             {
                 Name = model.Name,
-                StockQuantity = 0 
+                StockQuantity = 0
             };
 
             _context.Products.Add(product);

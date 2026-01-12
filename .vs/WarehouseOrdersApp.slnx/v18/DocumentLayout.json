@@ -3,84 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\stock\\issuestock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\stock\\issuestock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\stock\\addstock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\stock\\addstock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\stockissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\stockissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\stockissueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\stockissueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\data\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\data\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\stockentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\stockentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\warehouseordersapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\warehouseordersapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\stockissueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\stockissueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\stockissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\stockissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\stockentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\stockentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\productcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\productcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,20 +67,56 @@
       "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\data\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\data\\warehousecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\data\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\warehouseordersapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\warehouseordersapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111170649_UpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarehouseOrdersApp\\Migrations\\20260111170649_UpdateModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\models\\productcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\models\\productcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111165532_AddForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WarehouseOrdersApp\\Migrations\\20260111165532_AddForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|c:\\users\\kamko\\source\\repos\\warehouseordersapp\\warehouseordersapp\\migrations\\20260111225447_addstockissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C34118-2E4B-6AE7-1E52-614693996931}|WarehouseOrdersApp\\WarehouseOrdersApp.csproj|solutionrelative:warehouseordersapp\\migrations\\20260111225447_addstockissues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,76 +126,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "StockIssue.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\StockIssue.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\StockIssue.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\StockIssue.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Models\\StockIssue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Services\\EmailSender.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:48:51.758Z",
+              "WhenOpened": "2026-01-11T21:11:03.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:38:45.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockController.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\StockController.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\StockController.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\StockController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:57:28.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Order.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:38:50.048Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T14:25:36.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Product.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:11:03.309Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T15:38:57.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T16:38:39.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABoAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T16:40:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T20:33:50.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueStock.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T22:52:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddStock.cshtml",
               "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Stock\\AddStock.cshtml",
               "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Stock\\AddStock.cshtml",
@@ -196,41 +234,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
-              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Orders\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T15:38:57.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IssueStock.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
-              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Stock\\IssueStock.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T22:52:22.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Program.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:36:23.474Z",
+              "WhenOpened": "2026-01-11T20:31:22.071Z",
               "EditorCaption": ""
             },
             {
@@ -241,7 +253,7 @@
               "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\StockIssueViewModel.cs",
               "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\StockIssueViewModel.cs",
               "RelativeToolTip": "WarehouseOrdersApp\\Models\\StockIssueViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T22:50:35.362Z",
               "EditorCaption": ""
@@ -249,82 +261,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20260111225447_AddStockIssues.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StockIssue.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\StockIssue.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\StockIssue.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\StockIssue.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Models\\StockIssue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:54:47.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Program.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Program.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Program.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:31:22.071Z",
+              "WhenOpened": "2026-01-11T22:48:51.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T16:40:36.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Services\\EmailSender.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Services\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Services\\EmailSender.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Services\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T21:11:03.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WarehouseContext.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Data\\WarehouseContext.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Data\\WarehouseContext.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Data\\WarehouseContext.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Data\\WarehouseContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T17:02:51.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WarehouseOrdersApp.csproj",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
-              "RelativeToolTip": "WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-11T21:10:43.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "StockEntry.cs",
               "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\StockEntry.cs",
               "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\StockEntry.cs",
@@ -337,15 +286,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ProductCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:51:35.315Z",
+              "WhenOpened": "2026-01-11T16:34:28.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Product.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T16:11:03.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:38:50.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:38:52.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\Order.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:38:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WarehouseContext.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Data\\WarehouseContext.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Data\\WarehouseContext.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Data\\WarehouseContext.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Data\\WarehouseContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:02:51.789Z",
               "EditorCaption": ""
             },
             {
@@ -358,71 +372,114 @@
               "RelativeToolTip": "WarehouseOrdersApp\\Data\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:19:54.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderItem.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:38:50.872Z"
+              "WhenOpened": "2026-01-11T20:19:54.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T20:33:50.17Z"
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T16:36:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\StockController.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:57:28.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "OrderCreateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Models\\OrderCreateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:38:52.607Z"
+              "WhenOpened": "2026-01-11T15:38:45.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
-              "RelativeToolTip": "WarehouseOrdersApp\\Views\\Products\\AddProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T16:38:39.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductCreateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
-              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
-              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
-              "RelativeToolTip": "WarehouseOrdersApp\\Models\\ProductCreateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:34:28.714Z"
+              "WhenOpened": "2026-01-11T15:51:35.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T14:30:40.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:38:38.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260111225447_AddStockIssues.cs",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
+              "RelativeToolTip": "WarehouseOrdersApp\\Migrations\\20260111225447_AddStockIssues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:54:47.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WarehouseOrdersApp.csproj",
+              "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
+              "RelativeDocumentMoniker": "WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
+              "ToolTip": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
+              "RelativeToolTip": "WarehouseOrdersApp\\WarehouseOrdersApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T21:10:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "20260111170649_UpdateModel.cs",
               "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111170649_UpdateModel.cs",
               "RelativeDocumentMoniker": "WarehouseOrdersApp\\Migrations\\20260111170649_UpdateModel.cs",
@@ -434,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "20260111165532_AddForms.cs",
               "DocumentMoniker": "C:\\Users\\kamko\\source\\repos\\WarehouseOrdersApp\\WarehouseOrdersApp\\Migrations\\20260111165532_AddForms.cs",
               "RelativeDocumentMoniker": "WarehouseOrdersApp\\Migrations\\20260111165532_AddForms.cs",

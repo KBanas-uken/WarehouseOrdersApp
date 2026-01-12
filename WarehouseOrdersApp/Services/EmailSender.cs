@@ -6,7 +6,7 @@ namespace WarehouseOrdersApp.Services
     {
         public Task SendEmailAsync(string email, string subject, string htmlMessage)
         {
-            // Intentionally do nothing
+            // Intentionally do nothing, to be able to use Idenitity, without having to send actual mails
             return Task.CompletedTask;
         }
     }
